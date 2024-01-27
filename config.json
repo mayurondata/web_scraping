@@ -1,0 +1,6 @@
+{
+    "companies" : ["Apple","Google"],
+    "keywords"  : ["Stock Price" , "Law Suits" ],
+    "number_of_pages" : 3
+
+}
