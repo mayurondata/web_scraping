@@ -70,7 +70,7 @@ def yahoo_scrapper(config_fie_path):
                         links = news.select("h4>a")
                         for link in links:
                             news_link_list.append(link['href'])
-                           
+                            print('hhhhhh')
                         search_string.append(input_parameter_for_url)
                            
                    
